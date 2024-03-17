@@ -19,3 +19,13 @@
 </div>
 
 ###
+
+<p align="center">and now I'm taking a fullstack web developer bootcamp program on the binary platform and will learn many more languages</p>
+
+###
+
+<div align="center">
+  <img height="50" src="https://storage.googleapis.com/danacita-website-v3-prd/website_v3/images/Binar_-_Logo_warna.original.png"  />
+</div>
+
+###
