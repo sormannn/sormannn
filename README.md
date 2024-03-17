@@ -1,13 +1,21 @@
-## Kemahiran Bahasa Pemrograman
+<h1 align="center">Welcome to my Github Profile!</h1>
 
-### HTML
-<div style="background-color: #f16529; padding: 10px; color: white; border-radius: 5px;">HTML</div>
+###
 
-### CSS
-<div style="background-color: #2965f1; padding: 10px; color: white; border-radius: 5px;">CSS</div>
+<p align="center">Currently im learning & mastering these language</p>
 
-### JavaScript
-<div style="background-color: #f0db4f; padding: 10px; color: black; border-radius: 5px;">JavaScript</div>
+###
 
-### PHP
-<div style="background-color: #777bb3; padding: 10px; color: white; border-radius: 5px;">PHP</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
